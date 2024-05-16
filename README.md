@@ -1,6 +1,7 @@
 # RegStomp
-change daysToSubtract to subtract nr of days to date
-change strSoftwareKey to stomp a different registry key
+- change daysToSubtract to subtract nr of days
+
+- change strSoftwareKey to stomp a different registry key
 
 ## references
 https://github.com/jschicht/SetRegTime/blob/master/SetRegTime.au3
