@@ -217,7 +217,7 @@ int main()
     printf("ProjectStomp: Move file to temp, timestomp, backc, updating both FILE_NAME & STANDARD_INFORMATION \n");
     printf("============================================================================\n");
     printf("\n\n\n\n\n\n");
-    const wchar_t fileToStomp[] = L"c:\\users\\bobtheapt\\desktop\\example.dll";
+    const wchar_t fileToStomp[] = L"c:\\users\\bob\\desktop\\example.dll";
     const wchar_t fileSwitcheroo[] = L"c:\\windows\\temp\\example.dll";
 
     getFileTime(fileToStomp);
